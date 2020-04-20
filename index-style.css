@@ -12,7 +12,7 @@ body {
   }
 
   nav {
-      background-color: black;
+      background-color: darkslategrey;
     }
   
 
@@ -22,7 +22,7 @@ body {
         }
           
   
-  .wrapper li a {color: #555555;
+  .wrapper li a {color: white;
           text-decoration: none;
           text-align: center;
           padding: 10px;	
@@ -49,6 +49,8 @@ body {
     font-size: 35px;
     text-align: center;
     margin: 0px 0px;
+    background:black;
+    color:white;
 }
   
   .col1{width: 46%; float: left; padding: 2%;}
@@ -59,7 +61,7 @@ body {
   
   footer {
       clear: both;
-      background: black;
+      background: darkslategrey;
       padding: 50px 10px;
       color: white;
   }
