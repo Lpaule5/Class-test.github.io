@@ -10,7 +10,7 @@ body {
   }
   
   nav {
-      background-color: #000000;
+      background-color: black;
     }
   
 
@@ -50,8 +50,6 @@ body {
 }
   
   .col1{
-    margin: 10px 0;
-    transition: left 1s linear;
       width: 46%; 
       float: left; 
       padding: 2%;

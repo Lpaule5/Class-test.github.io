@@ -10,7 +10,7 @@ body {
   }
   
   nav {
-      background-color: #000000;
+      background-color: black;
     }
   
 
@@ -57,7 +57,7 @@ body {
   
   footer {
       clear: both;
-      background: #000000;
+      background: black;
       padding: 50px 10px;
-      color: #FFFFFF
+      color: white;
   }
