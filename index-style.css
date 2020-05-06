@@ -31,13 +31,13 @@ body {
 
   .wrapper li{
       display: inline-block;
-          width: 15%;
+          width: 10%;
         }
 
   .wrapper li a {color: white;
           text-decoration: none;
           text-align: center;
-          padding: 5px;
+          padding: 10px;
           display: block;
           }
 
