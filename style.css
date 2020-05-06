@@ -1,39 +1,54 @@
-  body {
-    font-family: sans-serif;
-    font-size: 18px;
-      line-height: 1.25;
-  }
-  
-  .container {
-    width: 750px;
-    margin: 0 auto;
-  }
-  
-  nav {background-color: #000000;}
-  
-  .wrapper li{display: inline-block;
-          width: 15%;}
-  
-  .wrapper li a {color: #555555;
-          text-decoration: none;
-          text-align: center;
-          padding: 10px;	
-          display: block;	
-          }
-  .wrapper a:hover {background-color: #333333; color: white;}
-  
-  header{background: blue; padding: 20px;}
-  
-  header h1 {font-size: 100px;}
-  
-  .col1{width: 46%; float: left; padding: 2%;}
-  
-  .col2{width: 46%; float: left; padding: 2%;}
-  
-  .col3{width: 46%; float: right; padding: 2%; background-color:red;}
-  
-  footer {clear: both;
-      background: #000000;
-      padding: 50px 10px;
-      color: #FFFFFF
-  }
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+    line-height: 1.25;
+}
+
+.container {
+  width: 750px;
+  margin: 0 auto;
+}
+
+nav {background-color: #000000;}
+
+.wrapper li{display: inline-block;
+        width: 15%;}
+
+.wrapper li a {color: #555555;
+        text-decoration: none;
+        text-align: center;
+        padding: 10px;
+        display: block;
+        }
+
+.wrapper a:hover {background-color: #333333; color: white;}
+
+header{background: blue; padding: 20px;}
+
+header h1 {font-size: 100px;}
+
+.col1{width: 46%; float: left; padding: 2%;}
+
+.col2{width: 46%; float: left; padding: 2%;}
+
+.col3{width: 46%; float: right; padding: 2%; background-color:red;}
+
+footer {clear: both;
+    background: #000000;
+    padding: 50px 10px;
+    color: #FFFFFF
+}
