@@ -77,4 +77,5 @@ body {
       background: black;
       padding: 50px 10px;
       color: white;
+      cursor: pointer;
   }
